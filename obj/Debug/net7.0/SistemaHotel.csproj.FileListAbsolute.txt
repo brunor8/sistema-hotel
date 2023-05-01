@@ -1,0 +1,15 @@
+C:\Projetos\DIO\SistemaHotel\bin\Debug\net7.0\SistemaHotel.exe
+C:\Projetos\DIO\SistemaHotel\bin\Debug\net7.0\SistemaHotel.deps.json
+C:\Projetos\DIO\SistemaHotel\bin\Debug\net7.0\SistemaHotel.runtimeconfig.json
+C:\Projetos\DIO\SistemaHotel\bin\Debug\net7.0\SistemaHotel.dll
+C:\Projetos\DIO\SistemaHotel\bin\Debug\net7.0\SistemaHotel.pdb
+C:\Projetos\DIO\SistemaHotel\obj\Debug\net7.0\SistemaHotel.csproj.AssemblyReference.cache
+C:\Projetos\DIO\SistemaHotel\obj\Debug\net7.0\SistemaHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DIO\SistemaHotel\obj\Debug\net7.0\SistemaHotel.AssemblyInfoInputs.cache
+C:\Projetos\DIO\SistemaHotel\obj\Debug\net7.0\SistemaHotel.AssemblyInfo.cs
+C:\Projetos\DIO\SistemaHotel\obj\Debug\net7.0\SistemaHotel.csproj.CoreCompileInputs.cache
+C:\Projetos\DIO\SistemaHotel\obj\Debug\net7.0\SistemaHotel.dll
+C:\Projetos\DIO\SistemaHotel\obj\Debug\net7.0\refint\SistemaHotel.dll
+C:\Projetos\DIO\SistemaHotel\obj\Debug\net7.0\SistemaHotel.pdb
+C:\Projetos\DIO\SistemaHotel\obj\Debug\net7.0\SistemaHotel.genruntimeconfig.cache
+C:\Projetos\DIO\SistemaHotel\obj\Debug\net7.0\ref\SistemaHotel.dll
